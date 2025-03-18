@@ -1,6 +1,6 @@
 # 👨‍💻 Développeur & Passionné par le Web 👩‍💻  
 
-Bienvenue sur mon profil ! Je suis un(e) passionné(e) de développement et d’innovation digitale. J’aime concevoir des solutions efficaces, optimisées et accessibles, en explorant les dernières technologies et bonnes pratiques du web.  
+Bienvenue sur mon profil ! Je suis une passionnée de développement et d’innovation digitale. J’aime concevoir des solutions efficaces, optimisées et accessibles, en explorant les dernières technologies et bonnes pratiques du web.  
 
 ## 🚀 Création de sites internet professionnels  
 
